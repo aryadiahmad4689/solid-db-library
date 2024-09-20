@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "YourProject\\": "src/"
+        }
+    },
+    "require": {
+        "ext-pdo": "*",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
